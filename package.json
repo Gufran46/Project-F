@@ -1,0 +1,15 @@
+{
+  "name": "new-backend-project",
+  "version": "1.0.0",
+  "description": "my first backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Gufran",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
